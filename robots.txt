@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://freelance-tax.howlane.com/sitemap.xml
